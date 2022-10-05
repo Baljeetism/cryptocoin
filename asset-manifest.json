@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/cryptocoin/static/js/main.693c9b6c.js",
+    "static/media/Screenshot_2022-06-22_015408-removebg-preview.png": "/cryptocoin/static/media/Screenshot_2022-06-22_015408-removebg-preview.b3afd4348816bde8378b.png",
+    "index.html": "/cryptocoin/index.html",
+    "main.693c9b6c.js.map": "/cryptocoin/static/js/main.693c9b6c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.693c9b6c.js"
+  ]
+}
